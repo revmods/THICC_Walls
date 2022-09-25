@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>THICC Walls</name>
+	<author>revmods</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>revmods.THICCWalls</packageId>
+	<url></url>
+	<description>Them walls THICC.</description>
+	<modDependencies>
+		
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+	</loadAfter>
+</ModMetaData>
