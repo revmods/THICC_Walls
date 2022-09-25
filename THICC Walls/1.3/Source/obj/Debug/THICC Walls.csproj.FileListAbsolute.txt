@@ -1,6 +1,0 @@
-C:\Games\RimWorld.v1.3.3387-GOG\Mods\_THICC Walls\1.3\Assemblies\THICC Walls.dll
-C:\Games\RimWorld.v1.3.3387-GOG\Mods\_THICC Walls\1.3\Assemblies\THICC Walls.pdb
-C:\Games\RimWorld.v1.3.3387-GOG\Mods\_THICC Walls\1.3\Source\obj\Debug\THICC Walls.csproj.AssemblyReference.cache
-C:\Games\RimWorld.v1.3.3387-GOG\Mods\_THICC Walls\1.3\Source\obj\Debug\THICC Walls.csproj.CoreCompileInputs.cache
-C:\Games\RimWorld.v1.3.3387-GOG\Mods\_THICC Walls\1.3\Source\obj\Debug\THICC Walls.dll
-C:\Games\RimWorld.v1.3.3387-GOG\Mods\_THICC Walls\1.3\Source\obj\Debug\THICC Walls.pdb
